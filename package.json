@@ -1,0 +1,20 @@
+{
+  "name": "azure-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "docx-pdf": "^0.0.1",
+    "docxtemplater": "^3.31.2",
+    "html-docx-js": "^0.3.1",
+    "mammoth": "^1.6.0",
+    "nodemailer": "^6.9.3",
+    "officegen": "^0.6.5",
+    "pdfkit": "^0.14.0",
+    "pizzip": "^3.1.1",
+    "puppeteer": "^21.5.2",
+    "q": "^1.5.1"
+  }
+}
